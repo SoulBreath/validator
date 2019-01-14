@@ -1,0 +1,2 @@
+# validator
+一个基于hibernate-validator的校验工具类以及自定义异常和处理
